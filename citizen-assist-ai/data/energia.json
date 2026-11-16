@@ -1,0 +1,35 @@
+[
+  {
+    "id": "EN01",
+    "categoria": "Energia: gastar menos na conta",
+    "titulo": "Tarifa Social: o desconto que vem antes de qualquer investimento",
+    "palavras_chave": ["tarifa social", "economizar energia", "conta de luz alta", "diminuir a conta", "pagar menos"],
+    "resposta": "No estudo do grupo, uma casa de 4 pessoas gasta cerca de 150 kWh por mês, o que dá uns R$ 119 de energia (tarifa da Enel SP sem impostos). Se a família tem direito à Tarifa Social (CadÚnico com renda de até meio salário mínimo por pessoa), os primeiros 80 kWh não são cobrados: são cerca de R$ 63 a menos por mês, ou R$ 758 por ano, sem gastar nada. Com o Desconto Social (renda entre meio e um salário mínimo por pessoa), a redução estimada é de uns R$ 11 por mês. Por isso, para quem está com a conta atrasada, conferir esse direito vem antes de trocar aparelhos ou pensar em placa solar. São estimativas: tributos, bandeiras e a tarifa da sua distribuidora mudam o valor final.",
+    "documentos": ["Conta de luz com o nome de alguém da família", "CadÚnico atualizado (feito no CRAS)"],
+    "onde": "O desconto é automático. Se não aparecer na conta, procure a distribuidora ou o CRAS.",
+    "fonte": "Cálculo do grupo (GS-SERS, notebook 03, seção 2.5) com a regra da ANEEL: https://www.gov.br/aneel/pt-br/assuntos/tarifas/tarifa-social e a tarifa B1 da ANEEL: https://dadosabertos.aneel.gov.br/",
+    "verificado_em": "13/11/2026"
+  },
+  {
+    "id": "EN02",
+    "categoria": "Energia: gastar menos na conta",
+    "titulo": "Chuveiro elétrico: banho mais curto economiza sem custo",
+    "palavras_chave": ["chuveiro", "banho", "chuveiro eletrico", "gasta mais energia", "consumo de energia"],
+    "resposta": "Na casa estudada, o chuveiro de 5.500 W responde por mais da metade do consumo: 82,5 de 150,4 kWh por mês. Diminuir o tempo total de banho da casa de 30 para 24 minutos por dia (20% a menos, somando todos os moradores) economiza 16,5 kWh por mês, ou 198 kWh por ano. Na tarifa de referência, são cerca de R$ 13 por mês (R$ 156 por ano), sem comprar nada. Use a opção de cálculo deste menu para estimar com o tempo e a potência do chuveiro da sua casa. A economia depende de manter o hábito e não é garantida na fatura. Não abra o chuveiro nem mexa na fiação para trocar resistência.",
+    "documentos": [],
+    "onde": "Em casa. A potência do chuveiro está na etiqueta ou no manual do aparelho.",
+    "fonte": "Cálculo do grupo (GS-SERS, notebooks 01 e 02) com a tarifa B1 da ANEEL: https://dadosabertos.aneel.gov.br/",
+    "verificado_em": "13/11/2026"
+  },
+  {
+    "id": "EN03",
+    "categoria": "Energia: gastar menos na conta",
+    "titulo": "Energia solar no telhado: quanto custa e quando vale a pena",
+    "palavras_chave": ["energia solar", "placa solar", "painel solar", "fotovoltaica", "energia renovavel", "vale a pena"],
+    "resposta": "Para gerar no ano a mesma energia que a casa estudada consome (1.805 kWh), seriam precisos cerca de 1,33 kWp de painéis em São Paulo. Pela média de mercado de 2025 e 2026 (R$ 2,45 a R$ 2,84 por Wp), o sistema custaria de R$ 3,3 mil a R$ 3,8 mil; sistemas pequenos costumam sair mais caros por Wp, então trate isso como piso. Ele evitaria cerca de 83 kg de CO2 por ano, pouco porque a eletricidade brasileira já é quase toda renovável. A conta não zera: continuam o custo mínimo de disponibilidade, os tributos e parte da tarifa de uso da rede. Para quem está com conta atrasada ou nome sujo, o investimento costuma não ser viável agora: comece pela Tarifa Social, pelo parcelamento da conta e pelo banho mais curto. Instalação exige telhado sem sombra, projeto e aprovação da distribuidora.",
+    "documentos": ["Orçamento de pelo menos 3 empresas", "Conta de luz com o consumo dos últimos 12 meses"],
+    "onde": "Empresa instaladora com projeto assinado e pedido de conexão à distribuidora.",
+    "fonte": "Cálculo do grupo (GS-SERS, notebooks 02 e 03) com irradiação do INPE/LABREN: https://labren.ccst.inpe.br/atlas_2017.html e fator de emissão do MCTI: https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/sirene",
+    "verificado_em": "13/11/2026"
+  }
+]

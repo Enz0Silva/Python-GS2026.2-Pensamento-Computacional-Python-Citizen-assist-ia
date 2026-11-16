@@ -1,0 +1,12 @@
+﻿data,sessao,origem,pergunta,id_orientacao,encontrou,ajudou,tentativas,tempo_segundos,facilidade
+2026-11-16 13:26:04,20261116-131401523698,pergunta,Descubra se uma família do CadÚnico tem direito a desconto na conta de luz,TS05,True,True,1,98.3,3
+2026-11-16 13:26:16,20261116-131401523698,pergunta,Sua conta atrasou. Descubra se podem cortar a luz e com quanto tempo de aviso,CO01,True,True,1,12.0,3
+2026-11-16 13:27:29,20261116-131401523698,energia,Tarifa Social: o desconto que vem antes de qualquer investimento,EN01,True,True,1,7.3,3
+2026-11-16 13:28:14,20261116-131401523698,energia,calculadora do banho,EN02,True,True,1,16.4,3
+2026-11-16 13:28:49,20261116-132838807282,categoria,Corte indevido: cortaram minha luz errado,RE02,True,True,1,1.5,5
+2026-11-16 13:28:53,20261116-132838807282,categoria,Dívida do antigo morador e troca de titularidade,RE03,True,False,1,2.0,5
+2026-11-16 13:29:38,20261116-132838807282,pergunta,Pagou a conta e a luz não voltou. Descubra o prazo para religar,RE01,True,True,1,16.5,5
+2026-11-16 13:29:59,20261116-132838807282,energia,Chuveiro elétrico: banho mais curto economiza sem custo,EN02,True,True,1,5.2,5
+2026-11-16 13:30:31,20261116-133019910118,pergunta,Descubra se uma família do CadÚnico tem direito a desconto na conta de luz.”,TS05,True,True,1,9.2,4
+2026-11-16 13:30:40,20261116-133019910118,pergunta,Pagou a conta e a luz não voltou. Descubra o prazo para religar,RE01,True,True,1,9.2,4
+2026-11-16 13:31:38,20261116-133019910118,pergunta,Descubra se vale a pena colocar placa solar para quem está com a conta atrasada.”,CO01,True,True,2,57.9,4
