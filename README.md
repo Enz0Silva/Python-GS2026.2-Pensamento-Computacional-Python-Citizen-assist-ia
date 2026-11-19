@@ -173,4 +173,4 @@ O teste foi feito em 16/11/2026 com **3 pessoas de fora da equipe** (P1, P2 e P3
 
 ## Vídeo técnico
 
-Link (YouTube, não listado): _(preencher)_
+Link (YouTube, não listado):(https://youtu.be/kkZutfvEFqs)
